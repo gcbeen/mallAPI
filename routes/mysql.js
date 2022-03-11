@@ -11,6 +11,7 @@ let sqlOptions = {
   user: "gcbeen",
   password: "JavaScriptGO@123456",
   database: "mall_pro",
+  useConnectionPooling: true,
 };
 
 // 创建连接
